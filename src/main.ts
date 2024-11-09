@@ -11,6 +11,9 @@ function dizOla(nome: string): string {
     // Também é possível fazer sem a variável "saudacao";
     // let saudacaoCompleta: string = "Olá " + nome;
 
+    // Ou direto no return;
+    // return "Olá " + nome;
+
     return saudacaoCompleta;
 }
 
